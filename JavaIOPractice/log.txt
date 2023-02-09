@@ -1,0 +1,28 @@
+Alexander Hertadi 
+hertadi@wisc.edu 
+Lec002
+****************************************************************
+Give me your name, now. 
+
+ENTER A NAME!!! DO IT NOW!!!
+df
+So, df, in months, how long have you been learning how to code? 
+34
+Well, df, 34 months is good progress! I Approve!
+For the next act, we will now let you choose a file.
+Type in file: 
+input.txt
+****************************************************************
+WELLL, this is the MOST important QUESTION of them ALL!!!!!!
+Loading..............
+****************************************************************
+WHO. IS. YOUR. FAVORITE. TABLE TENNIS PLAYER???????????
+1.Ma Long
+2.Xu Xin
+3.Waldner
+4.Liu Shiwen
+
+Choose wisely, or suffer the berating that awaits......
+shy
+You have brought shame to us all.........
+****************************************************************
